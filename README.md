@@ -1,4 +1,4 @@
-# :art:   Flutter Animated Login Screen From end Omar Ahmed YouTube Channel
+# :art:   Flutter Animated Login Screen From  ENG. Omar Ahmed YouTube Channel
 
 ## YouTube ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYiZceCCbaRLP27U5RXRHog?label=Omar%20Ahmed&style=social) : 
 
