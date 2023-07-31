@@ -8,6 +8,4 @@ this my updateing which i make center responsive
 as i use get widgetLength and length of text 
 as if the form field expended or not
 
-[![Video](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([http://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/Y5Dsi5o50rM)https://youtu.be/Y5Dsi5o50rM)
-
 [![Video](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/Y5Dsi5o50rM)
