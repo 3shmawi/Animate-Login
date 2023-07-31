@@ -8,5 +8,6 @@ this my updateing which i make center responsive
 as i use get widgetLength and length of text 
 as if the form field expended or not
 
-https://github.com/3shmawi/Animate-Login/assets/100779215/947798b8-6b59-4eda-b698-2f7b58b4f9cc
+[![Video](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([http://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/Y5Dsi5o50rM)https://youtu.be/Y5Dsi5o50rM)
 
+[![Video](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/Y5Dsi5o50rM)
